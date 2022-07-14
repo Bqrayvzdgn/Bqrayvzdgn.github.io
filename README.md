@@ -1,1 +1,1 @@
-Buğrahan'ın Portföy sitesi
+Buğrahan'ın Portföylü
