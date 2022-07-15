@@ -47,19 +47,12 @@ nav {
 	padding-right: 8%;
 }
 
-nav ul {
-	margin-left: 1rem;
-}
-
-nav ul li {
-	margin-left: 1rem;
-}
-
 .logo {
 	color: white;
 	font-size: 35px;
 	letter-spacing: 1px;
 	cursor: pointer;
+	margin-right: 1rem;
 }
 
 span {
@@ -237,7 +230,7 @@ button:hover {
 .title h2 {
 	color: white;
 	font-size: 75px;
-	width: 1130px;
+	width: 100%;
 	margin: 30px auto;
 }
 
@@ -398,6 +391,10 @@ footer p:nth-child(2) {
 		top: 70%;
 		transform: translateY(-50%);
 		flex-wrap: wrap;
+	}
+
+	nav ul li:nth-child(4) {
+		margin-left: 70px;
 	}
 
 	h1 {
