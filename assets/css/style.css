@@ -264,38 +264,36 @@ h5 {
 	cursor: pointer;
 }
 
-.contact-me {
+.skills {
 	width: 100%;
-	height: 290px;
+	height: 400px;
 	background: #191919;
 	display: flex;
+	text-align: center;
 	align-items: center;
 	flex-direction: column;
 	justify-content: center;
 }
 
-.contact-me p {
+.skills p {
 	color: white;
-	font-size: 30px;
+	font-size: 75px;
 	font-weight: bold;
 	margin-bottom: 25px;
 }
 
-.contact-me .button-two {
-	background-color: #f9004d;
+.skills .social a {
+	width: 60px;
+	height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #f9004d;
+	border-radius: 50%;
+	margin: 22px 10px;
 	color: white;
 	text-decoration: none;
-	border: 2px solid transparent;
-	font-weight: bold;
-	padding: 13px 30px;
-	border-radius: 30px;
-	transition: .4s;
-}
-
-.contact-me .button-two:hover {
-	background-color: transparent;
-	border: 2px solid #f9004d;
-	cursor: pointer;
+	font-size: 30px;
 }
 
 footer {
@@ -343,8 +341,8 @@ footer p:nth-child(2) {
 }
 
 .social a:hover {
-	transform: scale(1.3);
-	transition: .3s;
+	transform: scale(1.1);
+	transition: .4s;
 }
 
 .end {
