@@ -437,3 +437,12 @@ footer p:nth-child(2) {
 		flex-wrap: wrap;
 	}
 }
+
+@media only screen and (min-width: 768px) {
+	.content {
+		position: absolute;
+		top: 60%;
+		transform: translateY(-50%);
+		flex-wrap: wrap;
+	}
+}
