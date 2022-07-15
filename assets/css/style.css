@@ -85,7 +85,7 @@ nav ul li a:hover {
 	padding: 10px 20px;
 	border-radius: 30px;
 	transition: transform .4s;
-	margin: 1rem;
+	margin: 1em;
 }
 
 .btn:hover {
@@ -381,7 +381,7 @@ footer p:nth-child(2) {
 	font-size: 14px;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1024px) {
 	.about img {
 		display: none;
 	}
