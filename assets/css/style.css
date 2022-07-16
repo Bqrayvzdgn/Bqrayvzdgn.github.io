@@ -32,7 +32,7 @@ body {
 .hero {
   height: 100vh;
   width: 100%;
-  background-image: url(../img/img1/3903487.jpg);
+  background-image: url(../img/background.jpg);
   background-size: cover;
   background-position: center;
   flex-wrap: wrap;
